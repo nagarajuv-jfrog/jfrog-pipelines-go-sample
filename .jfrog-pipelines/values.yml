@@ -1,4 +1,4 @@
 repoPath: jfrog/jfrog-pipelines-go-Sample
-gitProvider: myGithub
+gitProvider: GitHubIntegration_Sample
 artifactory: myArtifactory
 slack: mySlackIntegration
